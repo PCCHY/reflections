@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    bugs occur due to changes made in code and diff between 2 versions shows us those changes.which help us to find bugs.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    it helps in finding bugs.
+    it helps programmer get to know how changes made in file with time.
+    history remains as backup if current file get damage
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros
+    we can save file as per logical changes
+    it reduces no. of files or version
+    we can access it offline
+    we can give it 'readme' so that later we can know what changes are made
+    cons
+    loss of data if user forgets to commit
+    user had to keep record of all file
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    in programming multiple files are related to each other so change in one file will affect  others thats why multiple file commit is needed.
+    in vectors or graphics designing change in one file does not affect other files thats why each file can be treated separately.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log
+    it tells us id of commit
+    it tell us the time when commit had taken place
+    it tell us brief info about what changes were made in file
+    git diff
+    it compares 2 files
+    it shows difference between 2 commits
+    it shows previous code as well as latest code simultaneously, which were changed.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    version control has a feature called git checkout which can load any previous commit in case our latest commit have some bugs.
+    by this we can find when bug arised and can resolve the issue.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    i want to be a web developer so for a good website i want to make various version of my codes, commit them find bugs
+    and keep record of my html,css,js simultaneously.
