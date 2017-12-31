@@ -13,4 +13,9 @@ What is the benefit of having a copy of the last known state of the remote store
 we have record of github repository
 it helps us in merging
 it helps in fast forward merges.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+we can collaborate by exchanging data in pd or google docs
+but in this method we dont have good record of history
+we cant keep record of file 
+it is harder to maintain more than 3 collaborators
 
